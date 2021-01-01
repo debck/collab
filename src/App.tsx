@@ -4,6 +4,7 @@ import "./App.css";
 import { createEditor, Editor } from "slate";
 import { Slate, Editable, withReact, ReactEditor } from "slate-react";
 
+
 const initialState: any = [
   {
     type: "paragraph",
